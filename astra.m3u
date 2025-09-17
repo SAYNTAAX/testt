@@ -1,22 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg " group-title="📺 General",MEGA
-http://45.232.176.17:8000/play/a007
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="📺 General",CHV
-http://45.232.176.17:8000/play/a008
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Canal-13-Logo.pngL" group-title="📺 General",Canal 13
-http://45.232.176.17:8000/play/a009
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="📺 General",TVN
-http://45.232.176.17:8000/play/a006
-
-#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-black-and-white-2.png" group-title="🎬 Cine & Series",HBO
-http://45.232.176.17:8000/play/a029
-
-#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="🎬 Cine & Series",HBO 2
-http://45.232.176.17:8000/play/a02g
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.pngL" group-title="🎬 Cine & Series",HBO Family
-http://45.232.176.17:8000/play/a02h
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="13E.cl" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Entertainment",13 Entretención (720p)
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
